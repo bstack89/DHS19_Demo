@@ -7,9 +7,9 @@ Putting a blank line between things creates a new paragraph, like the one I have
 
 Here's a list of things to consider:
 - popcorn
- - buttery
- - salty
- - hot air/oil
+  - buttery
+  - salty
+  - hot air/oil
 - antique vehicles
 - golden plains
 
